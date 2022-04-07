@@ -1,5 +1,6 @@
 ### Hola Mundo, soy Tomás 👋 👨‍💻
-'''js
+
+´´´js
 const tomas = {
   pronombres : "él",
   codigo: [Javascript, Python, Java],
@@ -15,7 +16,7 @@ const contactosTomas = {
   linkedin : "https://www.linkedin.com/in/ptomasledesma-fullstack/",
   pagina: "https://tomasld13.github.io/"
 }
-'''
+´´´
 <!--
 **tomasld13/tomasld13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

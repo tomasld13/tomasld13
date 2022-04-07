@@ -3,8 +3,8 @@
 ```javascript
 const tomas = {
   pronombres : "él",
-  codigo: [Javascript, Python, Java],
-  tecnologias: [HTML, CSS, GIT, MySQL],
+  codigo: [Javascript, Python, Java, MySQL],
+  tecnologias: [HTML, CSS, GIT],
   estudios: {
                         universitarioEnCurso: "Licenciatura en Sistemas",
                         bootcampEnCurso: "Full Stack Developer",

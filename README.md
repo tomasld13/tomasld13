@@ -14,6 +14,7 @@ const tomasLedesma = {
 
 const contactosTomas = {
   linkedin : "https://www.linkedin.com/in/ptomasledesma-fullstack/",
+  mail: "tomasld13@gmail.com",
   pagina: "https://tomasld13.github.io/"
 }
 ```

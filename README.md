@@ -4,7 +4,7 @@
 const tomas = {
   pronombres : "él",
   codigo: [Javascript, Python, Java, MySQL],
-  tecnologias: [HTML, CSS, git],
+  tecnologias: [HTML, CSS, Git],
   estudios: {
                         universitarioEnCurso: "Licenciatura en Sistemas",
                         bootcampEnCurso: "Full Stack Developer",

@@ -1,7 +1,7 @@
 ### Hola Mundo, soy Tomás 👋 👨‍💻
 
 ```javascript
-const tomas = {
+const tomasLedesma = {
   pronombres : "él",
   codigo: [Javascript, Python, Java, MySQL],
   tecnologias: [HTML, CSS, GIT],

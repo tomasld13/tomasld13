@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hola Mundo, soy Tomás 👋 👨‍💻
+
+const tomas = {
+  pronombres : "él",
+  codigo: [Javascript, Python, Java],
+  tecnologias: [HTML, CSS, GIT, MySQL],
+  estudios: {
+                        universitarioEnCurso: "Licenciatura en Sistemas",
+                        bootcampEnCurso: "Full Stack Developer",
+                      },
+ desafio: "Conseguir mi primero empleo en el sector IT"
+}
+
+const contactosTomas = {
+  linkedin : "https://www.linkedin.com/in/ptomasledesma-fullstack/",
+  pagina: "https://tomasld13.github.io/"
+}
 
 <!--
 **tomasld13/tomasld13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

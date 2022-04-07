@@ -13,8 +13,8 @@ const tomas = {
 }
 
 const contactosTomas = {
-  linkedin : "(https://www.linkedin.com/in/ptomasledesma-fullstack/)",
-  pagina: "(https://tomasld13.github.io/)"
+  linkedin : "https://www.linkedin.com/in/ptomasledesma-fullstack/",
+  pagina: "https://tomasld13.github.io/"
 }
 ```
 <!--

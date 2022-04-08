@@ -12,7 +12,7 @@ const tomasLedesma = {
  desafio: "Conseguir mi primero empleo en el sector IT"
 }
 ```
-Puedes encontrarme en 📱:
+Puedes encontrarme en 📱 🗺️ :
 - [Linkedin](https://www.linkedin.com/in/ptomasledesma-fullstack/)
 - [Mail](tomasld13@gmail.com")
 - [Portfolio](https://tomasld13.github.io/)

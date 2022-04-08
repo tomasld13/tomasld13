@@ -12,10 +12,12 @@ const tomasLedesma = {
  desafio: "Conseguir mi primero empleo en el sector IT"
 }
 ```
-Puedes contactarme en 📱:
+Puedes encontrarme en 📱:
 -[Linkedin](https://www.linkedin.com/in/ptomasledesma-fullstack/)
--[mail](tomasld13@gmail.com")
--[pagina](https://tomasld13.github.io/)
+
+-[Mail](tomasld13@gmail.com")
+
+-[Portfolio](https://tomasld13.github.io/)
 
 <!--
 **tomasld13/tomasld13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

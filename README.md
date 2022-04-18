@@ -14,7 +14,7 @@ const tomasLedesma = {
 ```
 Puedes encontrarme en 📱 🗺️ :
 - [Linkedin](https://www.linkedin.com/in/ptomasledesma-fullstack/)
-- [Mail](tomasld13@gmail.com")
+- [Mail](https://www.tomasld13@gmail.com")
 - [Portfolio](https://tomasld13.github.io/)
 
 <!--

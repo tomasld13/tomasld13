@@ -3,8 +3,8 @@
 ```javascript
 const tomasLedesma = {
   pronombres : "él",
-  codigo: [Javascript, Python, Java, MySQL],
-  tecnologias: [HTML, CSS, GIT],
+  lenguajes: [Javascript, Python, Java],
+  tecnologias: [HTML, CSS, React, Redux, GIT, MySQL,],
   estudios: {
                         universitarioEnCurso: "Licenciatura en Sistemas",
                         bootcampEnCurso: "Full Stack Developer",

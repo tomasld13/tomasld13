@@ -1,14 +1,18 @@
 ### Hola Mundo, soy Tomás 👋 👨‍💻
 
 ```javascript
-const tomasLedesma = {
+const TOMÁSLEDESMA = {
   pronombres : "él",
   lenguajes: [Javascript, Python, Java],
-  tecnologias: [{HTML, CSS, React, Redux}, {Node, SQL, MySQL, PostgreSQL, Sequelize, Express}, {GIT, Jest}],
+  tecnologias: [front = {HTML, CSS, React, Redux}, 
+                back = {Node, SQL, MySQL, PostgreSQL, Sequelize, Express}, 
+                controlDeVersiones = {GIT}, 
+                testing = {Jest}
+                ],
   estudios: {
-                        universitarioEnCurso: "Licenciatura en Sistemas",
-                        bootcampEnCurso: "Full Stack Developer",
-                      },
+              universitarioEnCurso: "Licenciatura en Sistemas",
+              bootcampEnCurso: "Full Stack Developer",
+            },
  desafíoActual: "Conseguir mi primero empleo en el sector IT"
 }
 ```

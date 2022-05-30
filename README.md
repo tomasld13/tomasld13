@@ -4,7 +4,7 @@
 const tomasLedesma = {
   pronombres : "él",
   lenguajes: [Javascript, Python, Java],
-  tecnologias: [{HTML, CSS, React, Redux}, {SQL, MySQL, PostgreSQL, Sequelize, Express}, {GIT, Jest}],
+  tecnologias: [{HTML, CSS, React, Redux}, {Node, SQL, MySQL, PostgreSQL, Sequelize, Express}, {GIT, Jest}],
   estudios: {
                         universitarioEnCurso: "Licenciatura en Sistemas",
                         bootcampEnCurso: "Full Stack Developer",

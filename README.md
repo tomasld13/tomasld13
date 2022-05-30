@@ -9,7 +9,7 @@ const tomasLedesma = {
                         universitarioEnCurso: "Licenciatura en Sistemas",
                         bootcampEnCurso: "Full Stack Developer",
                       },
- desafio: "Conseguir mi primero empleo en el sector IT"
+ desafíoActual: "Conseguir mi primero empleo en el sector IT"
 }
 ```
 Puedes encontrarme en 📱 🗺️ :

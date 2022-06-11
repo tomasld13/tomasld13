@@ -10,8 +10,8 @@ const TOMÁSLEDESMA = {
                 testing = {Jest}
                 ],
   estudios: {
-              universitarioEnCurso: "Licenciatura en Sistemas",
-              bootcampEnCurso: "Full Stack Developer",
+              universitarioEnCurso: "Licenciatura en Sistemas - UNGS",
+              bootcamp: "Full Stack Developer - Henry",
             },
  desafíoActual: "Conseguir mi primero empleo en el sector IT"
 }

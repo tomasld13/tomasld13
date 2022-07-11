@@ -4,10 +4,10 @@
 const TOMÁSLEDESMA = {
   lenguajes: [Javascript, Python, Java],
   tecnologias:{
-                 front : {HTML, CSS, React, Redux}, 
-                 back : {Node, SQL, MySQL, PostgreSQL, Sequelize, Express}, 
-                 controlDeVersiones : {GIT}, 
-                 testing : {Jest}
+                 front : [HTML, CSS, React, Redux], 
+                 back : [Node, SQL, MySQL, PostgreSQL, Sequelize, Express], 
+                 controlDeVersiones : GIT, 
+                 testing : Jest
               },
   estudios: {
               universitarioEnCurso: "Licenciatura en Sistemas - UNGS",

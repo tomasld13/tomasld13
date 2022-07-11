@@ -2,7 +2,6 @@
 
 ```javascript
 const TOMÁSLEDESMA = {
-  pronombres : "él",
   lenguajes: [Javascript, Python, Java],
   tecnologias:{
                  front : {HTML, CSS, React, Redux}, 

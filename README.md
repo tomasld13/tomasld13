@@ -13,8 +13,10 @@ const TOMÁSLEDESMA = {
               universitarioEnCurso: "Licenciatura en Sistemas - UNGS",
               bootcamp: "Full Stack Developer - Henry",
             },
- desafíoActual: "Conseguir mi primero empleo en el sector IT",
- sobreMi: "Soy de Argentina, provincia de Buenos Aires, hace dos años conocí la programación
+ desafíoActual: "Conseguir mi primero empleo en el sector IT"
+}
+```
+Sobre Mí 📖: Soy de Argentina, provincia de Buenos Aires, hace dos años conocí la programación
     y me quedé fascinado con esta, por esto comencé cursando la Tecnicatura Universitaria en 
     Informática, aprendiendo en esta Python y Java. Al mismo tiempo fui realizando algunos 
     cursos en internet, hasta que me   encontré con Henry, el cual ofrecía el aprendizaje de
@@ -25,9 +27,8 @@ const TOMÁSLEDESMA = {
     práctica mis conocimientos, de seguir aprendiendo y creciendo profesionalmente.
     Cuento con conocimientos Full Stack en el desarrollo web, me manejo tanto en la parte 
     del FrontEnd como del BackEnd, aunque tengo preferencia en esta última área, me gusta 
-    mucho trabajar desde el lado del servidor y las bases de datos."
-}
-```
+    mucho trabajar desde el lado del servidor y las bases de datos.
+
 Puedes encontrarme en 📱 🗺️ :
 - [Linkedin](https://www.linkedin.com/in/ptomasledesma/)
 - [Portfolio](https://tomas-ledesma.vercel.app/)

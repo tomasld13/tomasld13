@@ -16,7 +16,8 @@ const TOMÁSLEDESMA = {
  desafíoActual: "Conseguir mi primero empleo en el sector IT"
 }
 ```
-Sobre Mí 📖: Soy de Argentina, provincia de Buenos Aires, hace dos años conocí la programación
+Sobre Mí 📖: 
+    Soy de Argentina, provincia de Buenos Aires, hace dos años conocí la programación
     y me quedé fascinado con esta, por esto comencé cursando la Tecnicatura Universitaria en 
     Informática, aprendiendo en esta Python y Java. Al mismo tiempo fui realizando algunos 
     cursos en internet, hasta que me   encontré con Henry, el cual ofrecía el aprendizaje de

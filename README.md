@@ -14,16 +14,18 @@ const TOMÁSLEDESMA = {
               bootcamp: "Full Stack Developer - Henry",
             },
  desafíoActual: "Conseguir mi primero empleo en el sector IT",
- sobreMi: "Soy de Argentina, provincia de Buenos Aires, hace dos años conocí la programación y me quedé fascinado con esta
-    y por esto comencé cursando la Tecnicatura Universitaria en Informática, aprendiendo en esta Python y Java. Al mismo tiempo
-    fui realizando algunos cursos en internet, hasta que me   encontré con Henry, el cual ofrecía el aprendizaje de un stack 
-    solido de tecnologías para el desarrollo web, de una manera intensiva, por lo que este iba a agilizar mi inserción en el sector
-    laboral.
-    Hoy en día, ya con el bootcamp finalizado y la carrera en proceso, estoy en busca de mi primera experiencia laboral en el 
-    sector IT. Con mucho entusiasmo, ganas de poner en práctica mis conocimientos, de seguir aprendiendo y creciendo 
-    profesionalmente.
-    Cuento con conocimientos Full Stack en el desarrollo web, me manejo tanto en la parte del FrontEnd como del BackEnd, aunque 
-    tengo preferencia en esta última área, me gusta mucho trabajar desde el lado del servidor y las bases de datos."
+ sobreMi: "Soy de Argentina, provincia de Buenos Aires, hace dos años conocí la programación
+    y me quedé fascinado con esta, por esto comencé cursando la Tecnicatura Universitaria en 
+    Informática, aprendiendo en esta Python y Java. Al mismo tiempo fui realizando algunos 
+    cursos en internet, hasta que me   encontré con Henry, el cual ofrecía el aprendizaje de
+    un stack solido de tecnologías para el desarrollo web, de una manera intensiva, por lo 
+    que este iba a agilizar mi inserción en el sector laboral.
+    Hoy en día, ya con el bootcamp finalizado y la carrera en proceso, estoy en busca de mi 
+    primera experiencia laboral en el sector IT. Con mucho entusiasmo, ganas de poner en 
+    práctica mis conocimientos, de seguir aprendiendo y creciendo profesionalmente.
+    Cuento con conocimientos Full Stack en el desarrollo web, me manejo tanto en la parte 
+    del FrontEnd como del BackEnd, aunque tengo preferencia en esta última área, me gusta 
+    mucho trabajar desde el lado del servidor y las bases de datos."
 }
 ```
 Puedes encontrarme en 📱 🗺️ :

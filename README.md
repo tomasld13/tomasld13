@@ -17,9 +17,9 @@ const TOMÁSLEDESMA = {
 }
 ```
 Puedes encontrarme en 📱 🗺️ :
-- [Linkedin](https://www.linkedin.com/in/ptomasledesma-fullstack/)
-- [Portfolio](https://tomasld13.github.io/portfolio/)
-
+- [Linkedin](https://www.linkedin.com/in/ptomasledesma/)
+- [Portfolio](https://tomas-ledesma.vercel.app/)
+- Email: tomasld13@gmail.com
 <!--
 **tomasld13/tomasld13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -22,7 +22,7 @@ Sobre Mí 📖:
     Informática, aprendiendo en esta Python y Java. Al mismo tiempo fui realizando algunos 
     cursos en internet, hasta que me   encontré con Henry, el cual ofrecía el aprendizaje de
     un stack solido de tecnologías para el desarrollo web, de una manera intensiva, por lo 
-    que este iba a agilizar mi inserción en el sector laboral.
+    que este iba a agilizar mi inserción en el sector laboral. <br/>
     Hoy en día, ya con el bootcamp finalizado y la carrera en proceso, estoy en busca de mi 
     primera experiencia laboral en el sector IT. Con mucho entusiasmo, ganas de poner en 
     práctica mis conocimientos, de seguir aprendiendo y creciendo profesionalmente.

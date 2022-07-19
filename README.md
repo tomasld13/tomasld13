@@ -33,7 +33,9 @@ const TOMÁSLEDESMA = {
 
 Puedes encontrarme en 📱 🗺️ :
 💻 [Linkedin](https://www.linkedin.com/in/ptomasledesma/)
+
 💼 [Portfolio](https://tomas-ledesma.vercel.app/)
+
 📫 tomasld13@gmail.com
 <!--
 **tomasld13/tomasld13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

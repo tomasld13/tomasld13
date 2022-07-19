@@ -32,6 +32,7 @@ const TOMÁSLEDESMA = {
     mucho trabajar desde el lado del servidor y las bases de datos.
 
 Puedes encontrarme en 📱 🗺️ :
+
 💻 [Linkedin](https://www.linkedin.com/in/ptomasledesma/)
 
 💼 [Portfolio](https://tomas-ledesma.vercel.app/)

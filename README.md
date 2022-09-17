@@ -18,9 +18,11 @@ const TOMÁSLEDESMA = {
 ```
     👨‍💻Soy de Argentina, provincia de Buenos Aires, hace dos años conocí la programación
     y me quedé fascinado con esta, por esto comencé cursando la Tecnicatura Universitaria en 
-    Informática, al mismo tiempo fui realizando algunos cursos en internet y también cursé el bootcamp de desarrollo web full stack de Henry. 
+    Informática, al mismo tiempo fui realizando algunos cursos en internet y también cursé el 
+    bootcamp de desarrollo web full stack de Henry. 
     
-    🚀Hoy en día, me encuentro trabando como técnico en programación informatica y cursando la Tecnicatura Universitaria en Informática.
+    🚀Hoy en día, me encuentro trabando como técnico en programación informatica y cursando la 
+    Tecnicatura Universitaria en Informática.
     
 Puedes encontrarme en 📱 🗺️ :
 

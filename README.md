@@ -2,10 +2,10 @@
 
 ```javascript
 const TOMÁSLEDESMA = {
-  lenguajes: [Javascript, Python, Java],
+  lenguajes: [Javascript, Python, Java, C#],
   tecnologias:{
                  front : [HTML, CSS, React, Redux], 
-                 back : [Node, SQL, MySQL, PostgreSQL, Sequelize, Express], 
+                 back : [Node, SQL Server, MySQL, PostgreSQL, Sequelize, Express], 
                  controlDeVersiones : GIT, 
                  testing : Jest
               },

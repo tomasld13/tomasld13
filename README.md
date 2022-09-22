@@ -10,7 +10,7 @@ const TOMÁSLEDESMA = {
                  testing : Jest
               },
   estudios: {
-              universitarioEnCurso: "Licenciatura en Sistemas - UNGS",
+              universitarioEnCurso: "Tecnicatura Universitaria en Informática - UNGS",
               bootcamp: "Full Stack Developer - Henry",
             },
  actualidad: "Trabajando como Técnico en Programación Informática"

@@ -17,7 +17,8 @@ const TOMÁSLEDESMA = {
 ```
     👨‍💻Soy de Argentina, provincia de Buenos Aires, ex-alumno del Bootcamp FullStack-Developer en Henry y actual cursante de la Tecnicatura Universitaria en Informática. 
     
-    🚀Hoy en día, me encuentro trabando como técnico en programación informatica haciendo uso de tecnologias como: C#, JavaScript, ASP.NET, Microsoft Visual Studio Code, Bases de datos relacionales, Microsoft Management Studio, Team Foundation y SQL Server.
+    🚀Hoy en día, me encuentro trabando como técnico en programación informatica haciendo uso de tecnologias como: C#, JavaScript, ASP.NET, Microsoft Visual Studio Code,
+    Bases de datos relacionales, Microsoft Management Studio, Team Foundation y SQL Server.
     
 Puedes encontrarme en 📱 🗺️ :
 

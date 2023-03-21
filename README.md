@@ -5,9 +5,8 @@ const TOMÁSLEDESMA = {
   lenguajes: [Javascript, Python, Java, C#],
   tecnologias:{
                  front : [HTML, CSS, React, Redux], 
-                 back : [Node, SQL Server, MySQL, PostgreSQL, Sequelize, Express], 
-                 controlDeVersiones : GIT, 
-                 testing : Jest
+                 back : [Node, SQL Server, MySQL, PostgreSQL, Sequelize, Express, .NET], 
+                 controlDeVersiones : GIT, Team Foundation
               },
   estudios: {
               universitarioEnCurso: "Tecnicatura Universitaria en Informática - UNGS",
@@ -16,13 +15,9 @@ const TOMÁSLEDESMA = {
  actualidad: "Trabajando como Técnico en Programación Informática"
 }
 ```
-    👨‍💻Soy de Argentina, provincia de Buenos Aires, hace dos años conocí la programación
-    y me quedé fascinado con esta, por esto comencé cursando la Tecnicatura Universitaria en 
-    Informática, al mismo tiempo fui realizando algunos cursos en internet y también cursé el 
-    bootcamp de desarrollo web full stack de Henry. 
+    👨‍💻Soy de Argentina, provincia de Buenos Aires, ex-alumno del Bootcamp FullStack-Developer en Henry y actual cursante de la Tecnicatura Universitaria en Informática. 
     
-    🚀Hoy en día, me encuentro trabando como técnico en programación informatica y cursando la 
-    Tecnicatura Universitaria en Informática.
+    🚀Hoy en día, me encuentro trabando como técnico en programación informatica haciendo uso de tecnologias como: C#, JavaScript, ASP.NET, Microsoft Visual Studio Code, Bases de datos relacionales, Microsoft Management Studio, Team Foundation y SQL Server.
     
 Puedes encontrarme en 📱 🗺️ :
 

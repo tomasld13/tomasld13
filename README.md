@@ -1,7 +1,7 @@
 ### Hola Mundo, soy Tomás 👋 👨‍💻
 
 ```javascript
-const TOMÁSLEDESMA = {
+let TOMÁSLEDESMA = {
   lenguajes: [Javascript, Python, Java, C#],
   tecnologias:{
                  front : [HTML, CSS, React, Redux], 

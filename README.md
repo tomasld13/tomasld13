@@ -6,7 +6,7 @@ let TOMÁSLEDESMA = {
   tecnologias:{
                  front : [HTML, CSS, React, Redux], 
                  back : [Node, SQL Server, MySQL, PostgreSQL, Sequelize, Express, .NET], 
-                 controlDeVersiones : GIT, TeamFoundation
+                 controlDeVersiones : [GIT, TeamFoundation]
               },
   estudios: {
               universitarioEnCurso: "Tecnicatura Universitaria en Informática - UNGS",

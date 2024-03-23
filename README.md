@@ -12,14 +12,11 @@ let TOMÁSLEDESMA = {
               universitarioEnCurso: "Tecnicatura Universitaria en Informática - UNGS",
               bootcamp: "Full Stack Developer - Henry",
             },
- actualidad: "Trabajando como Técnico en Programación Informática"
+ actualidad: "Trabajando como Software Developer en Mercado Libre"
 }
 ```
     👨‍💻Soy de Argentina, provincia de Buenos Aires, ex-alumno del Bootcamp FullStack-Developer en Henry y actual cursante de la 
-    Tecnicatura Universitaria en Informática. 
-    
-    🚀Hoy en día, me encuentro trabando como técnico en programación informatica haciendo uso de tecnologias como: C#, JavaScript, 
-    ASP.NET, Microsoft Visual Studio Code, Bases de datos relacionales, Microsoft Management Studio, Team Foundation y SQL Server.
+    ultima instancia de la Tecnicatura Universitaria en Informática en la Universidad Nacional de General Sarmiento.
     
 Puedes encontrarme en 📱 🗺️ :
 

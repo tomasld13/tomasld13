@@ -15,8 +15,9 @@ let TOMÁSLEDESMA = {
  actualidad: "Trabajando como Software Developer en Mercado Libre"
 }
 ```
-    👨‍💻Soy de Argentina, provincia de Buenos Aires, ex-alumno del Bootcamp FullStack-Developer en Henry y actual cursante de la 
-    ultima instancia de la Tecnicatura Universitaria en Informática en la Universidad Nacional de General Sarmiento.
+    👨‍💻Soy de Argentina, provincia de Buenos Aires, actual cursante de la 
+    ultima instancia de la Tecnicatura Universitaria en Informática en la Universidad Nacional de General Sarmiento
+    y programador Backend en Mercado Libre.
     
 Puedes encontrarme en 📱 🗺️ :
 
